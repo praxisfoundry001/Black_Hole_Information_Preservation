@@ -115,17 +115,17 @@ Checksum identity establishes file identity only. It does not establish physical
 
 Foundational non-guarantee derivation:
 
-**¯\(ツ)/¯ — A Derivation from Non-Guarantee, Second Edition**  
+**¯\\(ツ)/¯ — A Derivation from Non-Guarantee, Second Edition**  
 DOI: `10.5281/zenodo.22736388`
 
 Foundational hinge grammar:
 
-**From ¯\(ツ)/¯ to Authorization: Deriving the Foundational Hinge Grammar of Structural Flow**  
+**From ¯\\(ツ)/¯ to Authorization: Deriving the Foundational Hinge Grammar of Structural Flow**  
 DOI: `10.5281/zenodo.22147925`
 
 Historical black-hole work:
 
-**Black Holes as Single-Boundary Regimes Under ¯\(ツ)/¯**  
+**Black Holes as Single-Boundary Regimes Under ¯\\(ツ)/¯**  
 DOI: `10.5281/zenodo.19375220`
 
 That earlier work addresses a broader structural black-hole identification. The present release is a distinct scholarly object focused on the event-horizon preservation-premise burden and does not replace the earlier paper as though the two performed the same public job.
