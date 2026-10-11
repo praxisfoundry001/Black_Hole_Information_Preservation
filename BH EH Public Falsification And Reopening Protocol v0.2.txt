@@ -1,0 +1,124 @@
+﻿BH-EH Falsification And Reopening Protocol
+Event-Horizon Global Preservation Premise Challenge
+Date: 2026-10-10
+Status: SCIENTIFIC DEFEAT/REOPENING PROTOCOL FROZEN FOR PUBLIC RELEASE; NOT A PHYSICAL INFORMATION-FATE VERDICT.
+Authority: BH-EH consolidated formal object v0.1, user-confirmed Lean Web whole-bundle compilation (68/68 #check signatures, no reported errors).
+0. PURPOSE AND NON-NEGOTIABLE SCOPE
+This protocol is a public, adversarial test of two *different* objects:
+SF-H: the conditional structural interpretation of the ordinary outward causal route from strictly inside a genuine event horizon to the exterior future (horizon-facing Single-Boundary presentation).
+PH-G: the physically asserted guarantee of global quantum-information preservation for actual four-dimensional gravitational black holes possessing event horizons and undergoing formation/evaporation in THIS UNIVERSE, not simply a consistent mathematical model.
+The physical target is NOT: an AdS boundary, a null-infinity cut standing in for an event horizon, a laboratory analogue, a quantum-circuit toy, a stationary two-sided Schwarzschild construction silently treated as full collapse-and-evaporation dynamics, or the full density-threshold Single-Boundary thesis. Such constructions may supply powerful conditional results, but their connection to PH-G is a separate proof obligation.
+The challenge neither asserts that physics has been disproved nor assigns a probability that information is destroyed. It requires independent warrants for claims that exceed the proved mathematical scope. Opposing results are credited *at their earned scope*. A claimant may satisfy the physical preservation burden by a direct complete-dynamics theorem; radiation-only decoding is NOT the only admissible route.
+1. EXACT FROZEN PROPOSITIONS AND THEIR DIFFERENT STATUSES
+T-SF-1 (CONDITIONAL HINGE ROUTE, MACHINE-CLOSED): For an admitted interface whose route r starts strictly inside a genuine event horizon and attempts
+ORDINARY future-directed causal inheritance to the exterior future, assume (a) no exterior causal reach from the interior through that route; (b) ordinary outward Cascade implies such causal reach; and (c) Authorization through that route presupposes its Cascade. Then outward(r) -> (not Cascade(r) AND not Authorization(r)).
+This is a logical implication from explicitly supplied physical/translation premises. It is NOT a theorem proving an event horizon exists in a given astrophysical target or that every quantum/nonlocal route is blocked.
+Interior-local Cascade, exterior-exterior Cascade and suitable nonclassical quantum correlations are not forbidden by this statement. A candidate SF Echo first break requires separately established Persistence, Boundary and admitted route identity; no Echo is automatically assigned to a geometrically forbidden would-be transmission.
+T-SF-2 (NON-ENTAILMENT, MACHINE-CLOSED IN MINIMAL SIGNATURE): The registered minimal horizon pattern, SF non-guarantee and blocked ordinary outward Cascade entail neither global quantum preservation nor fundamental global information destruction. In particular, exterior recoverability is not equivalent to complete physical preservation. Lean proofs here are logical countervaluations in declared toy signatures, NOT physical countermodels of four-dimensional quantum gravity.
+D-PH-1 (REVIEW DISPOSITION, NOT A MACHINE-PROVED FACT ABOUT THE COSMOS): In the finite set of arguments audited through BH-EH-08, no independently established proof was identified that guaranteed cross-input global quantum preservation through the complete actual PH-G process. This is an audit finding with specified sources and date. It is NOT the universal negative claim that no such theorem exists or can ever be proved.
+D-PH-2 (OPEN): Actual PH-G preservation and actual complete-output fundamental loss are BOTH OPEN. The full physical SBR density-threshold identity and the rate/prevalence claim 'usually no recovery' are ALSO OPEN.
+C-EXTERNAL (STRONGER USER INTERPRETATION, EXPLICITLY NOT A THEOREM): The assertion 'there is no physically established information paradox unless its preservation premise is earned for the real target' is a methodological challenge to physical applicability. It is NOT a theorem declaring that all conditional mathematical formulations of the paradox lack contradictions.
+2. QUANTIFIERS, OUTPUT AND FATE: WHAT MUST BE SPECIFIED
+
+
+Let T denote a physically warranted target process with a literal event horizon, admitted quantum input family/code C and final physical observable algebra O. For a preservation claim G(T,C,O), the claimant must specify:
+* the input preparation, arbitrary superpositions and retained reference;
+* the quantum dynamics / input-to-complete-output map, or an equivalent operator-algebraic statement with valid gauge and dressing treatment;
+* which physical sectors are part of the final *complete* O;
+* how distinctions, relative phases and reference correlations are preserved on all inputs in C, with the specified exact/approximate bound;
+* whether 'global' refers to all claimed input states for one T, or to every T in a physically specified black-hole class.
+A proof for one restricted code never automatically proves a theorem about all codes; an actual counterexample for one admitted T can refute a universal all-T claim, but a positive observation for one T need not establish it.
+The state of Hawking radiation R alone is not automatically O. Additional sectors such as soft/edge modes, remnants, baby universes or gravitational constraints require independent physical admission; they may not be invented to rescue a conclusion. Conversely, they cannot be excluded solely to manufacture a loss verdict. Mathematical Stinespring dilations, by themselves, do not prove additional physical sectors exist.
+A measured inability to decode information from R may establish limited recoverability only. It is not proof of loss from O. A Page curve, purified individual output, distinguishable classical labels, a nonzero perturbative matrix element or tomography of a restricted output also does not by itself establish arbitrary-input complete quantum preservation.
+3. ADMISSIBLE DEFEAT ROUTES AND REQUIRED CONCESSIONS
+F1. PHYSICAL PRESERVATION THEOREM (DIRECT DEFEAT OF D-PH-1)
+Submission: A reproducible theorem, or a convergent chain of established results, warranting G(T,C,O) for the actual 4D event-horizon process, with controlled formation and endpoint dynamics, physical meaning of O, arbitrary cross-input quantum coherence, treatment of gravitational constraints, and independently supported applicability to this universe. Exact operator reconstruction, complete channel isometry or another logically sufficient proof route may qualify. The theorem need not use a decoder for R alone. 
+Decision: If all declared PH-G burdens are met, REVOKE 'preservation not yet earned' for the exact T/C/O claim; mark physical preservation EARNED at that scope. If a universal all-T theorem is established, concede the universal physical claim. Do NOT declare the SF non-guarantee theorem false solely because a domain-specific guarantee has been independently earned.
+F2. PHYSICALLY ADMITTED RECOVERY DATA (OBSERVATIONAL PRESSURE)
+Submission: Independent observations involving an authenticated real black-hole process, a declared and retained quantum reference, evidence the input followed the specified target evolution, a coherent output witness, calibrated statistical uncertainties and a matched rival that predicts an incompatible measured outcome. Specify the code, operator access, detector algebra, nuisance bounds and errors.
+Decision: A reliable positive witness DEFEATS a specified entanglement-breaking or low-recovery prediction for that code and measured output. It may upgrade partial physical recovery; it does not alone prove G for all inputs or physically complete final output. A sufficiently comprehensive experiment may earn broader admission only after completeness and coverage are separately justified. Never substitute 'no decoder found' for a certified upper bound on ALL admissible decoders.
+F3. COMPLETE-OUTPUT NONPRESERVATION RESULT (DEFEAT OF A UNIVERSAL G CLAIM)
+Submission: A real-target theorem and/or physically admissible observation establishing that specified input quantum distinctions cannot survive in independently complete O under the actual dynamics; distinguish physical nonunitarity from missing observer access, uncontrolled environments, code restrictions and unknown sectors. State the target and quantified class.
+Decision: Revoke any incompatible universal G claim; upgrade scoped evidence for fundamental loss if the complete-output burden is met. This does NOT by itself prove that loss is 'usual' across black holes or inputs. An inaccessible E sector and genuine loss can yield identical R statistics; without independent O completeness the result must remain INCONCLUSIVE. 
+F4. DOMAIN TRANSLATION COUNTEREXAMPLE (DEFEAT OF SF-H APPLICABILITY)
+Submission: Identify the same event horizon, inside-to-outside route and ordinary causal transmission predicate as T-SF-1. Show either the alleged physical horizon is not an event horizon in the declared global causal sense, or the inference 'Cascade on this route entails causal reach' is an invalid rendering of the SF Cascade hinge, or the same-route prerequisite Authorization -> Cascade fails under the governing SF definitions. 
+Decision: Reopen / retract the event-horizon-to-SF domain translation, or repair its exact predicate. Ordinary Hawking radiation, exterior quantum correlations or nonlocal gravitational reconstruction are NOT, without an additional matched argument, counterexamples to blocked ordinary causal transmission from strictly inside a genuine event horizon.
+F5. FOUNDATIONAL SF COUNTERDERIVATION (SEPARATE, HIGHEST BURDEN)
+Submission: A formal counterexample to universal SF hinge or non-guarantee content under its actual definitions and hypotheses, not just disagreement with a domain interpretation. Identify the earliest foundational inference that fails and why a domain-local repair cannot absorb it.
+Decision: Reopen the specific universal SF theorem and only then consider a TOE/kernel amendment. Disagreement over a black-hole observation, absent a counterderivation reaching universal assumptions, is domain pressure only.
+F6. MATHEMATICAL / MODEL-LEVEL ADVANCE (POSITIVE PARTIAL RESULT)
+Submission: A correctly scoped island, replica, Page curve, algebraic-QEC, operator reconstruction or code-decoder proof with hypotheses, observables, error bound and demonstrated validity.
+Decision: Credit and cite the earned theorem at MODEL/CODE/PERTURBATIVE scope, even if PH-G is not earned. Update the model ledger. Do not dismiss valid mathematics merely because it does not yet describe complete evaporation. Likewise do not promote it into an unqualified claim about this cosmos.
+4. SYMMETRIC EVIDENCE CRITERIA / NO PRIVILEGED DEFAULT
+Both physical preservation and physical loss must supply a proof or validated observations for the *same real target*, with adequate quantum coherence, complete physical observables and physical-applicability warrants. Neither is presumed by existing mathematical habits or by SF non-guarantee.
+Predeclared assessment axes for every submission:
+* T: target geometry / literal event-horizon status / chronology;
+* C: arbitrary quantum-input code and retained reference, as claimed;
+* O: operator and final-output physical completeness;
+* E: evolution, horizon dynamics and endpoint control;
+* Q: coherence fidelity, reconstruction map and quantified error;
+* P: independent physical-applicability / observational warrant;
+* R: reconciliation of the relevant semiclassical premises and gravitational constraints; distinguish a real contradiction from differing algebras.
+A submission can satisfy some axes without satisfying all. The verdict is a vector, not a binary reward for preferred mathematics. Missing evidence is OPEN, not FALSE; failure to find a proof is not a theorem of impossibility.
+5. PREDECLARED OUTCOME-TO-VERDICT MAP
+Case A: Full direct physical G theorem, all required axes satisfied. -> PHYSICAL PRESERVATION EARNED at claimed scope; D-PH-1 DEFEATED. SF-H unchanged unless independently counterderived.
+Case B: Strong correct all-input QEC in a specified quantum-gravity model, but real 4D complete-evaporation bridge unresolved. -> MODEL RECOVERY EARNED; PHYSICAL G OPEN; D-PH-1 not defeated.
+Case C: Valid recovery for one physical input code / radiation subset. -> SCOPED RECOVERY EARNED; no automatic universal G.
+Case D: No R decoder is located; no complete-output certificate. -> EXTERIOR RECOVERY UNDETERMINED; FUNDAMENTAL LOSS OPEN.
+Case E: Positive radiation witness refutes one specified EB-null model. -> THAT NULL REJECTED; other G/L accounts separately open.
+Case F: Complete-output physically warranted nonpreservation, for an admitted code/target under actual dynamics. -> FUNDAMENTAL LOSS EARNED for that scope; universal G narrowed/refuted as quantified; no automatic frequency statement.
+Case G: A true same-route horizon/SF translation counterexample. -> DOMAIN TRANSLATION REOPEN; physical G/L remain independent questions.
+Case H: A genuine universal SF counterderivation. -> UNIVERSAL SF REOPEN, with precise prerequisite and dependency impact.
+Case I: New source exposes a materially omitted preservation theorem but its cosmic bridge remains unproved. -> SOURCE AUDIT REOPEN and MODEL-LEVEL CREDIT UPGRADED; physical verdict changes only if real-target admission is met.
+Case J: Full current evidence leaves multiple physical fates with identical accessible statistics and no independently complete O. -> NON-IDENTIFIABLE; admit STOP, not preservation, loss or experiment 'failure' masquerading as either.
+6. SPECIALIST SUBMISSION AND REPRODUCIBILITY FORM
+Each external challenge should identify:
+1. Exact claim challenged and suggested revised verdict.
+2. Target: geometry, global-event-horizon criterion, one-/two-sided spacetime, formation, evaporation and endpoint regime.
+3. Inputs: quantum states/codes, references, gravitational dressing and whether a universal/all-code claim is being made.
+4. Output: accessible measurement algebra and separately justified physically complete final algebra; explicit sectors/charges.
+5. Proof/measurement: equations or theorem statement, dependencies, operator domains, validated code/calculation, statistics/error bars.
+6. Physical bridge: observations, approximation control and reasons this theorem/model applies to the actual 4D event-horizon target.
+7. Rival defeater: which other accepted model or SF translation claim is contradicted on IDENTICAL scope, and which predictions differ.
+8. Reopening seat: source audit, model reconstruction, physical fate, event-horizon domain translation or foundational SF.
+9. Reproducibility: public source/reference, code or proof assistant version, full hypotheses and independent checks.
+10. Known incompleteness, exclusion conditions and STOP surfaces.
+Review standard: inspect the strongest version of the opposing claim. Avoid changing targets, imposing radiation decoding as the only proof route, smuggling unknown sectors into O, or conflating access with fundamental existence. Explicitly permit an external critic to propose a different complete-evolution argument than those audited to date.
+7. FORMAL CERTIFICATE, ITS LIMITS AND REOPENING LOCALITY
+Machine evidence: user supplied a complete Lean Web output listing all 68 #check signatures for unchanged Universal Kernel + single integrated BH-EH append (BHEH01/02/04/05/06/07/08 and BHEHIntegrated), with no compiler errors reported in the supplied record. The consolidated source has 69 theorem declarations.
+This demonstrates elaboration of the stated logical theorem and admission contract within that Lean environment, not an automated verification of GR quantum fields, full SF-to-event-horizon physical validity or global fate.
+A number of gate theorems are projections from explicitly defined admission predicates: Lean verifies correct consequences of those definitions; it DOES NOT independently prove that any real submission satisfies the predicates.
+The independent empirical/physical warrant cannot be supplied by a typed Boolean flag. The model countervaluations are logical, not real universes.
+Reopening destination map:
+* invalid Lean proof, omitted hypothesis, type mismatch: FORMAL / MODEL;
+* new regulated operator or exact scoped decoder: MODEL / CODE;
+* established actual global preservation or actual complete-output loss: PHYSICAL INFORMATION VERDICT;
+* incorrect same-route event-horizon translation: DOMAIN TRANSLATION;
+* actual foundational SF contradiction: UNIVERSAL SF (rare, separately justified).
+LEAN FILE: BH_EH_Consolidated_Preservation_Premise_Contract_v0.1_APPEND.lean
+MACHINE COMPANION: BH EH Lean Machine Companion v0.3.txt
+SCIENTIFIC ANCHOR: The Burden of Black-Hole Information Preservation v1.4
+EXECUTION RECORD: author-supplied Lean Web output dated 2026-10-10, retained as production verification evidence outside the public authority layers.
+DERIVATION HISTORY: BHIS Experimental Derivation Spine v2.2 and BH-EH-01 through BH-EH-08 audit files, retained as development archive outside the public release.
+8. PUBLICATION CLAIMS AND EXCLUSIONS
+Permitted claim:
+'For the registered ordinary outward causal route, the stipulated event-horizon and SF prerequisites imply blocked Cascade and blocked same-route Authorization. That minimal horizon-facing premise set does not entail a complete quantum-information fate. The physical assertion of guaranteed global quantum preservation for actual 4D event-horizon evaporation remains an independently answerable mathematical and physical-applicability burden. The focused arguments audited here provide important positive conditional results without fully closing that declared physical burden.'
+Forbidden/unearned claims at current scope:
+* 'SF proves actual quantum information is destroyed';
+* 'actual black holes usually erase information';
+* 'unitary physics is mathematically false';
+* 'Hawking radiation is derived from SF non-guarantee';
+* 'event horizon proves the full SBR density threshold';
+* 'no valid quantum reconstruction exists in asymptotically flat gravity';
+* 'there is definitively no black-hole paradox in any theoretical model';
+* 'no future theorem can establish global preservation';
+* 'Lean has proved physical quantum gravity or the actual cosmic result'.
+9. STATUS / PUBLICATION STATE
+FALSIFICATION PROTOCOL: COMPLETE AS A SCOPED PUBLIC CHALLENGE v0.2.
+EXTERNAL ADVERSARIAL VALIDATION: NOT YET EXECUTED.
+NO NEW LEAN MODULE OR KERNEL/TOE RATIFICATION REQUIRED BY THIS PROTOCOL.
+SCIENTIFIC ANCHOR: The Burden of Black-Hole Information Preservation v1.4 is complete and aligned to this frozen protocol.
+PUBLICATION STATE: ready for coordinated public release and subsequent external challenge.
+________________
+AI Use Disclosure
+Artificial intelligence tools were used during the development of this protocol for research assistance, adversarial review, organization of defeat and reopening criteria, drafting support, consistency checking, and formalization support. The author directed the scope, claim separation, evidence standards, reopening seats, concession rules, machine-authority limits, and final editorial judgments, and takes responsibility for the final content.

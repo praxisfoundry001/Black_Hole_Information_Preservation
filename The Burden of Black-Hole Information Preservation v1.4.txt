@@ -1,0 +1,231 @@
+﻿The Burden of Black-Hole Information Preservation 
+An Event-Horizon Premise Challenge
+The physical question
+The black-hole information paradox is commonly presented as a conflict between the information-preserving evolution of quantum mechanics and the apparently information-destroying consequences of black-hole evaporation. The conflict is mathematically substantive. It does not follow, however, that every premise used to construct it has been established for an actual evaporating black hole in our universe.
+The distinction matters. A theorem about a specified quantum system establishes what follows from that system's assumptions. Whether the same theorem governs the complete formation and evaporation of a gravitational black hole is a further physical question. That question cannot be settled by the mathematical consistency of the assumed dynamics alone.
+This paper challenges the entitlement to assert guaranteed global quantum-information preservation for an actual four-dimensional black hole possessing an event horizon, unless that guarantee has been independently established for the physical regime in question.
+The challenge does not assert that fundamental information loss occurs. It does not dispute the mathematics of unitary quantum evolution. Nor does it deny the substantial progress made through holography, quantum error correction, replica wormholes, entanglement islands, or gravitational reconstruction.
+It asks a narrower question: What establishes that the complete quantum evolution of a real evaporating black hole preserves arbitrary initial quantum distinctions?
+A satisfactory answer may be theoretical. A physically applicable theorem would suffice; an observational demonstration is not mandatory where a theorem's physical premises are independently warranted. But the answer must identify the actual process, the relevant physical degrees of freedom, the evolution they undergo, and the scope of the preservation claim.
+Without that showing, guaranteed preservation remains a hypothesis about the physical process, however compelling the supporting model mathematics may be.
+The event horizon and the limit of outward inheritance
+In classical general relativity, the future event horizon of an asymptotically predictable black-hole spacetime is defined through global causal structure. In the usual asymptotically flat formulation, the black-hole region is the portion of spacetime that cannot send future-directed causal signals to future null infinity, ℐ⁺.
+The event horizon is the boundary of that region.
+This characterization is exact in the stipulated asymptotically flat setting, but it is not an unqualified definition of the exterior future in every cosmological spacetime. With a positive cosmological constant, a spacetime may have both black-hole and cosmological horizons, and its relevant conformal boundary is not the same as the ℐ⁺ of an asymptotically flat model. A Schwarzschild-like exterior may be an excellent approximation for a compact astrophysical object without showing that the complete future of the universe is asymptotically flat. Accordingly, the asymptotically flat black-hole model used here is an explicitly declared physical idealization. Application to a black hole in this universe requires an independently justified correspondence between that model, the appropriate exterior causal future, and the actual gravitational evolution. If the physical system has only an apparent or trapping horizon, rather than the stipulated global event horizon, the route claim must be reformulated rather than silently transferred. Nor does evidence for a horizon-compatible compact object amount to direct observation of the complete future global structure required to identify an event horizon.[1]
+Consequently, an event in the black-hole interior cannot transmit an ordinary future-directed causal signal to ℐ⁺. This is not a statement about detector sensitivity, technological limitations, or the destruction of information. It follows from the stipulated causal geometry.
+This physical property admits a structural interpretation using the Boundary, Persistence, and Cascade relations of Structural Flow.
+Persistence concerns the continued availability of an established distinction within an admitted process. Boundary concerns the differentiation and separation of interacting regions or states. Cascade concerns the inheritance of an earlier distinction or consequence through a specified subsequent interaction route. Authorization concerns the resulting capacity to carry a status forward through that route.
+For the present application, these terms are restricted to a single physical question: whether an interior-produced consequence can be inherited by an exterior observer through ordinary future-directed causal transmission across a genuine event horizon.
+Let r denote that candidate transmission route. Let Reach(r) mean that an ordinary causal connection to the stipulated exterior future exists. Let C(r) denote successful inheritance through that route, and A(r) denote the subsequent authorization of the carried consequence.
+The physical interpretation supplies two conditional dependencies:
+C(r) ⇒ Reach(r)
+A(r) ⇒ C(r)
+For the stipulated interior-to-exterior route of a genuine event-horizon geometry,
+¬Reach(r).
+It follows that
+¬C(r) ∧ ¬A(r).
+The result is elementary but important. The unavailability of ordinary outward causal transmission blocks the corresponding outward inheritance and any downstream consequence dependent on that same route.
+It does not follow that all interior physical processes cease. An infalling observer may encounter local interactions, retain records, or exchange signals with another observer while both remain inside. The event horizon is not generally a locally destructive surface. The structural statement concerns the selected route, not every possible interaction in the interior.
+Nor does it follow that all externally observable quantum correlations are forbidden. A nonlocal gravitational reconstruction, an asymptotic observable sensitive to an earlier preparation, or an entanglement relation between radiation subsystems need not constitute an ordinary causal signal transmitted from strictly inside the horizon to the exterior.
+Those are different physical mechanisms. They must be assessed under their own mathematical and dynamical assumptions.
+The proposed correspondence therefore has a deliberately limited meaning: to the exterior, the event horizon presents an enclosing boundary across which ordinary outward causal inheritance is unavailable.
+This is the event-horizon-facing Single-Boundary interpretation advanced here. It is not a derivation of every property of the black-hole interior, nor a proof of a particular collapse-density threshold.
+The correspondence is conditional on the event-horizon geometry and on the specified interpretation of Cascade as route-dependent inheritance. It is not offered as a replacement for Einstein's field equations or as an alternative microscopic theory of gravity.
+Its relevance to the information problem lies in a restriction on inference. Blocking a particular route does not determine whether the distinction that could not traverse it has ceased to exist.
+The distinction may persist elsewhere. It may remain recoverable through correlations supported by a different mechanism. It may become irrecoverable from a restricted observational algebra. Or complete quantum evolution may fail to preserve it.
+The event-horizon premise alone determines none of these alternatives.
+The preservation claim and its missing implication
+To formulate the disputed claim, consider a physical black-hole process T, an admitted family C of initial quantum states, and an algebra O of final physical observables.
+The process T must be specified sufficiently to distinguish a forming and evaporating black hole from an eternal stationary geometry, an analogue horizon, or a model that assumes a particular endpoint. Where an event horizon is essential to the claim, its existence and global causal meaning must also be addressed.
+The input family C must contain the quantum distinctions covered by the proposed preservation theorem. If preservation is asserted for arbitrary states in a code subspace, that assertion includes superpositions and relative phases, not merely distinguishable classical preparation labels.
+The observable algebra O must be physically justified as complete relative to the claim. It cannot be identified with conveniently accessible Hawking radiation merely because no other sectors have been measured. Equally, unobserved remnants, baby universes, soft charges, or additional gravitational degrees of freedom cannot be introduced as physically established information repositories solely to preserve a preferred conclusion.
+Let G(T,C,O) denote the assertion that the complete physical evolution preserves the quantum information represented by every state in C, relative to O, to the claimed degree of accuracy.
+For an exact finite-dimensional isometric evolution U acting on the code, preservation entails
+⟨Uψ│Uφ⟩ = ⟨ψ│φ⟩
+for all │ψ⟩, │φ⟩ ∈ C.
+An equivalent complete-channel or operator-algebraic theorem may establish the relevant property without explicitly presenting such an isometry. The particular mathematical representation is not the issue. What matters is that the conclusion genuinely covers the claimed quantum distinctions and physical system.
+Now let H denote the admitted event-horizon condition, and let S denote the restricted structural correspondence described above.
+The formal result is:
+H ∧ S ⇏ G(T,C,O)
+and equally,
+H ∧ S ⇏ ¬G(T,C,O).
+Here ⇏ means that the conclusion is not entailed by the stipulated premises alone.
+The minimal horizon-facing premises admit logical completions in which global quantum preservation holds and others in which it does not. Consequently, neither fate is established by that premise set.
+This is a non-entailment result, not an impossibility theorem. It does not assert that additional physically warranted premises could never establish G. Indeed, if complete gravitational dynamics independently entail preservation, those dynamics provide precisely the additional information the restricted structural premises do not contain.
+The significance is that such a guarantee must enter the argument as an earned physical result. It cannot be obtained merely from the existence of a horizon or from the observation that information-preserving evolution is standard in an independently specified class of quantum systems.
+One must also distinguish global preservation from exterior recoverability.
+Suppose R denotes the collected Hawking-radiation subsystem, while O represents the independently warranted complete final physical system. Failure to reconstruct a quantum input from R does not establish failure to preserve it in O.
+Conversely, successful reconstruction of a selected quantum code from R does not by itself prove universal preservation for every possible input or black-hole history.
+This difference is not peculiar to Structural Flow. It follows from ordinary quantum-channel theory.
+A channel may preserve two orthogonal input labels while destroying their relative phase. Complete dephasing in a specified basis provides an elementary example. Both basis states remain perfectly recognizable, yet an arbitrary superposition is not recoverable from the dephased output.
+Likewise, an injective noisy quantum channel may distinguish every pair of input density operators without possessing an exact physically admissible inverse.
+Therefore, observational distinguishability, statistical reconstruction, and exact quantum recoverability are not interchangeable claims.
+The required preservation burden concerns quantum coherence across the declared input family.
+The question whether the information paradox depends on physically contestable premises has substantial precedents. Maudlin argues that a familiar statement of the loss paradox misapplies principles about global evolution; Manchak and Weatherall object that the underlying apparently credible but incompatible propositions still constitute a legitimate paradox.[2] Unruh and Wald argue that information loss remains a physical possibility deserving serious consideration.[3] These are distinct arguments, not endorsements of one common resolution. Together they show why an objection to assumed global preservation cannot itself be presented as a new discovery.
+More directly, Buoninfante, Di Filippo, and Mukohyama examine the assumptions used to obtain the information-loss conflict, particularly the black-hole central dogma relating exterior state counting to horizon area.[4] Buoninfante and Di Filippo subsequently argue that a specified semiclassical formulation depends on additional entropy-area assumptions.[5] Rovelli identifies a confusion between entropy notions in a firewall argument, while Rovelli and Vidotto explicitly advance the position that the standard paradox rests on an unjustified physical hypothesis.[6] These contributions have different domains and are not interchangeable. Nor does their existence show that all formulations of the black-hole information problem have been resolved.
+The contribution proposed here is narrower. It specifies an ordinary future-directed interior-to-exterior event-horizon route and an explicit structural translation, demonstrates that the restricted route premises entail neither global quantum preservation nor global loss, and states the independent physical, complete-output, and cross-input-coherence conditions under which stronger claims would be admitted. A consolidated Lean 4 contract verifies the logical statements relative to the encoded premises and identifies reopening conditions. It supplies neither microscopic evaporation dynamics nor an independently established theorem about which information fate occurs in nature. This paper claims no priority for questioning the general premises of the paradox.
+What current preservation arguments establish
+The preceding restriction does not imply that existing quantum-gravity research has failed to establish meaningful information-preservation results. Several developments provide substantial evidence against a simple picture of fundamental destruction.
+Donald Marolf's Unitarity and Holography in Gravitational Physics develops a particularly relevant argument in asymptotically flat gravity. In perturbation theory around a collapsing black hole, the algebra generated by suitable asymptotic observables near spatial infinity contains a complete set of observables. Marolf argues that, if the required completeness extends to the nonperturbative theory, either the gravitational S-matrix is unitary or the assumed perturbative description of the asymptotic region fails.[7]
+This is not a casual assertion that quantum mechanics ought to remain unitary. It identifies a gravitational mechanism and a conditional mathematical consequence.
+Its force must be acknowledged.
+Its conditional structure must also be preserved. Perturbative completeness and nonperturbative completeness are different assertions. So are a result concerning an asymptotic observable algebra and a complete account of formation, evaporation, endpoint dynamics, and final physical degrees of freedom.
+The theorem provides an important route toward preservation. It does not dispense with the premises needed to reach the complete physical target.
+Laddha, Prabhu, Raju, and Shrivastava develop a related but distinct account of information accessible near future null infinity in four-dimensional asymptotically flat quantum gravity.[8] They argue that information available near a later cut can also be recovered near an earlier cut and that, under their assumptions, an arbitrarily small asymptotic neighborhood carries extensive information about massless excitations.
+Such results directly caution against identifying causal inaccessibility with an absence of exterior information.
+They also depend on assumptions about the quantum-gravitational vacuum, the asymptotic Hamiltonian, the operator algebra, and the validity of relevant commutation relations in the complete theory. Their conditional mathematical content should not be discarded, but neither should its extension to all physical information in a completed evaporation history be presumed.
+A more recent analysis by Chen, Penington, Satishchandran, and Tabor constructs regulated algebras of observables associated with cuts of null infinity.[9] Their September 2026 work identifies divergences in the proposed sharp-cut Bondi-mass observable and introduces a finite-radius, time-smeared construction.
+The resulting algebras exhibit nontrivial nesting and admit reconstruction statements, including a stationary Schwarzschild application. The paper also retains important operator-domain and background restrictions.
+These findings clarify rather than eliminate the admission problem. A regulated operator must be well defined on its stated domain. A reconstruction theorem must act on the specified physical state space. Neither mathematical step automatically certifies complete quantum evolution through the formation and disappearance of a real black hole.
+The entanglement-island literature provides another powerful challenge to any general assertion that quantum information cannot be recovered.
+Marolf and Maxfield's Observations of Hawking Radiation: The Page Curve and Baby Universes develops an operational account of measurements consistent with unitary black-hole behavior in asymptotically flat settings.[10] Its treatment of baby-universe superselection sectors also reveals why operational entropy measurements and the properties of an unconditioned radiation state require separate interpretation.
+In particular, reproducing an entropy curve consistent with a unitary process is not equivalent to establishing preservation of arbitrary cross-input quantum coherence.
+The distinction is elementary. A channel that maps every input state to the same pure output has zero output entropy for every input, yet it destroys the input distinctions in the accessible channel.
+Accordingly, a Page curve is significant evidence for a specified microscopic interpretation, but a Page curve alone is not a complete quantum-channel preservation theorem.
+The stronger operator-reconstruction literature addresses precisely this limitation.
+The strongest gravitational preservation arguments also include holography. Maldacena's AdS/CFT correspondence relates certain gravitational bulk theories in asymptotically anti-de Sitter settings to nongravitational conformal quantum theories on the boundary. Where the duality applies and the boundary dynamics are unitary, this is a substantive reason to expect compatible unitary bulk evolution, not merely a preference for preserving familiar quantum rules. The correspondence nonetheless has specified boundary conditions and theoretical premises. By itself, it does not establish a physically complete final-state description for a forming and evaporating four-dimensional asymptotically flat event-horizon black hole, or the cosmological bridge to that process in this universe. Any such extension warrants evaluation on its own terms.[11]
+The original quantum-extremal-surface and replica-wormhole calculations sharpen that positive case. Almheiri, Engelhardt, Marolf, and Maxfield analyzed an evaporating black hole coupled to an external system and identified the relevant changes in generalized entropy and entanglement wedges. Penington established a Page-time transition in an AdS/CFT evaporation setup, with corresponding consequences for entanglement-wedge reconstruction. Almheiri, Hartman, Maldacena, Shaghoulian, and Tajdini then demonstrated how replica-wormhole saddles modify radiation-entropy calculations in explicit gravitational models. These results supply concrete gravitational explanations for why the leading semiclassical Hawking entropy calculation need not remain valid throughout evaporation. Their force is not diminished by the separate question asked here: whether the mathematics of these specified models establishes arbitrary cross-input quantum preservation through the physically complete nonperturbative evolution of the actual four-dimensional target.[12]
+Dong, Harlow, and Wall proved a quantum-information theorem supporting reconstruction of bulk operators within entanglement wedges in gauge/gravity duality.[13] Their result shows that reconstruction can be a mathematically controlled property of a quantum code rather than a heuristic claim about hidden information.
+Antonini, Chen, Maxfield, and Penington extend the relevant discussion toward asymptotically flat, massless-gravity settings in An Apologia for Islands.[14] They give arguments for gravitationally gauge-invariant operators under specified perturbative conditions and for the approximation of semiclassical island operators by operators on Hawking radiation.
+This is stronger than finding thermal deviations, identifying classical microstates, or computing a Page curve.
+It is genuine quantum-operator reconstruction at a stated scope.
+The present challenge accepts that result. It does not insist that a reconstruction theorem be rejected merely because it is formulated within a code subspace, makes use of gravitational path integrals, or controls only specified classes of operators.
+Instead, it asks whether the theorem's claimed scope has been matched to the physical preservation assertion being advanced.
+Recovery of semiclassical operators within a controlled approximation does not immediately entail exact nonperturbative preservation of every admitted quantum input through a complete physical evaporation history. Nor does perturbative control to all orders automatically establish a nonperturbative equality.
+These distinctions specify the additional proof burden. They do not constitute refutations of the reconstruction programs themselves.
+The importance of scope is also visible in recent evaporating-Schwarzschild calculations. Đorđević and Radovanović obtain a Page curve for an evaporating black hole in a two-dimensional dilaton-gravity model derived by dimensional reduction from four-dimensional Einstein gravity.[15] Their calculation includes backreaction and an explicit collapse scenario. It therefore addresses significantly more of the evaporation process than an eternal-background calculation.
+Nevertheless, a controlled result in the reduced semiclassical model is not automatically a theorem about the complete microscopic evolution of an actual four-dimensional black hole. In particular, the physical interpretation of the endpoint and the treatment of quantum-gravity corrections remain material to a claim of exact global preservation.
+Collectively, these works establish that the preservation program is mathematically rich, physically motivated, and increasingly capable of formulating reconstruction in gravitational settings relevant to the black-hole problem.
+They do not establish, simply by accumulation, an unconditional theorem of global preservation for every actual event-horizon black hole undergoing complete evaporation.
+The present conclusion is limited to the arguments examined. It is not a claim that no stronger theorem exists or could be established.
+Where the paradox resides
+Hawking's original information-loss proposal was not the assertion that global preservation is guaranteed. His 1976 analysis argued that gravitational collapse could introduce a fundamental limitation on predictability, motivating a superscattering description rather than ordinary unitary S-matrix evolution.[16]
+The modern paradox arises because that conclusion conflicts with the expectation that the complete underlying quantum evolution should preserve information.
+Both sides possess substantial mathematical motivations.
+For a system whose complete evolution is unitary, preservation of quantum distinctions is not optional. If the final physical state is instead described by a genuinely information-destroying map, the two descriptions cannot simultaneously govern the same complete system under the same assumptions.
+The contradiction is real.
+That concession does not exhaust the strongest opposing case. Page's analysis of information in black-hole radiation makes the information-return expectation conditional on an S-matrix description of formation and evaporation.[17] Mathur shows that small corrections to the traditional semiclassical Hawking process cannot, under his assumptions, remove the entanglement responsible for the problem.[18] Wallace distinguishes an endpoint formulation involving the ultimate absence of a unitary final map from a pre-endpoint or Page-time conflict between black-hole statistical mechanics and the quantum-field-theoretic Hawking calculation.[19] In Wallace's account, the latter tension becomes acute before complete evaporation and is not removed simply by saying that endpoint evolution has not been established.
+The present event-horizon non-entailment theorem does not answer the Page-time objection. In particular, it does not determine which statistical-mechanical interpretation of black-hole entropy is physically correct, whether the relevant finite-state-counting premises apply, or how semiclassical entanglement evolution is modified. Those questions demand their own matched physical premises and counterarguments. What is challenged here is the promotion of a complete global preservation guarantee into an established property of the actual evaporation process—not the mathematical existence or scientific importance of the earlier-time inconsistency.
+The unresolved question is whether the premises generating that contradiction have all been established for the same physical black-hole process.
+This is the distinction on which the present challenge rests.
+A mathematical inconsistency among jointly stipulated propositions establishes that those propositions cannot all be true together. It does not independently show which proposition describes nature incorrectly, nor that each premise has already earned physical applicability.
+The firewall arguments provide a particularly clear example. Almheiri, Marolf, Polchinski, and Sully identify mutually incompatible requirements involving radiation purity, semiclassical near-horizon physics, and a smooth infalling experience.[20] The force of the argument lies in the incompatibility of the conjunction.
+Determining which assumption must change is a further physical and theoretical task.
+The present work adopts the same insistence on explicit premises while challenging a different entitlement: the admission of guaranteed complete quantum-information preservation at the physical event-horizon scope.
+Structural Flow contributes a deliberately limited observation. A Boundary does not, merely by being established, supply a guarantee that all distinctions crossing into its enclosed regime will persist or remain available outside it. A blocked outward Cascade route does not itself establish an alternative quantum-information channel.
+Neither fact implies fundamental erasure.
+But neither fact establishes global preservation.
+The physical law that determines the fate of quantum information must therefore be earned from additional dynamics.
+This conclusion should not be mistaken for a claim that event horizons violate quantum mechanics. An event horizon is compatible with a globally unitary theory if the complete physical description supports that result. It may also coexist, within a different sufficiently established theory, with fundamentally nonunitary evolution.
+The horizon-facing structural premises alone do not select the outcome.
+The claim is therefore not that a black hole has been proved to destroy information. It is that guaranteed preservation cannot be treated as an established property of an actual evaporating event-horizon black hole solely because the paradox is conventionally formulated using that expectation.
+Until the preservation premise is independently warranted for the physical target being claimed, the contradiction derived from combining that premise with a loss-producing account remains conditional rather than an independently established fact about complete evaporation in this universe. This conclusion neither eliminates the separate Page-time conflict nor rules out a future physically applicable global-preservation theorem.
+That distinction does not diminish the problem's scientific importance. It locates the additional burden required to turn a conditional inconsistency into a physical claim.
+Conditions under which the challenge fails
+The present claim is intentionally vulnerable to counterargument.
+A specialist can defeat the current physical-premise objection by establishing a preservation theorem whose scope actually reaches the target.
+Such a theorem would need to characterize the relevant quantum evolution of a genuine four-dimensional forming and evaporating black hole, justify the completeness of the physical final degrees of freedom, preserve the quantum distinctions covered by its stated input family, and establish the applicability of its premises to the physical regime under discussion.
+An exact operator-algebraic theorem, a complete quantum-channel result, or another logically sufficient gravitational construction would be admissible. No particular decoder architecture is privileged.
+The burden also does not require recovering all information from Hawking radiation alone. If independently warranted gravitational sectors or observables complete the physical account, those belong in the analysis.
+The critical requirement is that their existence and role be established independently of the desired preservation conclusion.
+If a theorem proves that the complete physical evolution preserves arbitrary quantum input coherence for the declared black-hole class, the present verdict that preservation remains unearned must be withdrawn for that class.
+If the proof instead establishes recovery for a restricted code subspace, family of microstates, or class of semiclassical operators, that result must be credited at its achieved scope.
+A restricted result may later support a stronger general theorem. It is not disqualified merely because the stronger theorem has not yet been established.
+An experimental demonstration offers a separate avenue of challenge.
+Suppose a genuine black-hole process can be supplied with an input quantum system initially entangled with a retained reference. If an outgoing physical system preserves measurable reference entanglement above a rigorously established entanglement-breaking bound, an information-erasing model of the tested channel can be rejected.
+For a d-dimensional maximally entangled reference input, an entanglement-breaking channel has a decoded entanglement fidelity no greater than 1/d. A validated result exceeding that bound would establish survival of quantum coherence beyond the capacity of the specified entanglement-breaking account.
+Such a result would be important. It would not, by itself, prove universal global preservation.
+Conversely, failure to observe recoverable reference entanglement in a restricted radiation sample would not establish fundamental loss. A loss claim requires an independently warranted complete physical output and adequate control over the relevant input states and all admissible recovery operations.
+A physical account of complete information destruction would have to meet that burden just as a preservation account must meet its own.
+The event-horizon structural correspondence is independently falsifiable. It would require revision if its assignment of outward Cascade to ordinary causal transmission were shown to violate the governing structural definition, or if the selected physical object failed to possess the stipulated event-horizon causal behavior.
+One must compare the same physical route in making this objection.
+Quantum correlations established outside the horizon, gravitational dressing, or nonlocal reconstruction do not automatically constitute a future-directed ordinary causal signal sent from strictly inside a genuine event horizon. Their existence therefore does not, without a more specific argument, refute the stated route-dependent correspondence.
+A successful counterexample to the correspondence would reopen the event-horizon-to-Structural-Flow domain translation at the implicated predicate or mapping. It would not automatically refute the independently established general structural theorem.
+Conversely, a physically established preservation law would defeat the current preservation-unearned verdict at its earned scope. It would not automatically contradict structural non-guarantee, because a domain-specific guarantee can be established through additional independently justified laws.
+This is not a mechanism for insulating the physical challenge from failure. It is a separation between different propositions.
+The physical challenge must concede whenever the disputed physical premise is earned. The structural interpretation must concede whenever its event-horizon correspondence is defeated. A foundational theorem must concede if its actual hypotheses and deductions admit a valid counterexample.
+Each proposition is answerable at its own scope.
+Formal verification and its limits
+The conditional event-horizon result, logical non-entailment claims, countermodels, and preservation-admission conditions have been encoded in Lean 4 as a consolidated formal contract.
+The integrated source was checked in Lean Web alongside an unchanged Structural Flow Universal Kernel. The supplied compilation record contains 68 successfully recognized theorem checkpoints across the component modules and their integration statements, with no reported compilation errors.
+The formalization establishes that the stipulated route logic and admission criteria have the claimed logical consequences within the encoded definitions.
+In particular, the outward-Cascade result uses both the horizon no-escape premise and the defined dependence of ordinary outward Cascade on an admitted causal route. The resulting implication is a formal conditional, not an independent derivation of general relativity from Structural Flow. The countermodels for preservation and loss are deliberately minimal logical completions in which global-fate fields are not constrained by the route assumptions; they are not proposed solutions of quantum gravitational field equations. Similarly, the physical-admission predicates are explicit criteria rather than machine-verified evidence that their physical conditions have been satisfied. The formal exercise disciplines the argument's logical reach without establishing the physical dynamics needed to decide information fate.
+The verification establishes non-entailment only within the encoded premises. It does not prove the existence of an actual event horizon, construct the quantum-gravitational field dynamics, or determine global information fate; physical applicability remains a separate burden.
+The physical interpretation remains accountable to gravitational theory and evidence.
+Conclusion
+The black-hole information problem has produced substantial advances in gravitational quantum theory. The recovery of quantum operators from radiation, the construction of entanglement islands, and the increasingly precise treatment of asymptotic observable algebras are genuine mathematical achievements.
+They do not warrant being dismissed because the ultimate physical question remains unresolved.
+Equally, their success within specified frameworks does not eliminate the requirement to establish the scope of a global preservation claim.
+For a genuine event horizon, ordinary future-directed causal transmission from the black-hole interior to the exterior is unavailable. The corresponding restricted Structural Flow interpretation registers a blocked outward inheritance route. This result does not establish the destruction of quantum information, and it does not establish its guaranteed preservation.
+The complete quantum-information fate requires additional physical premises.
+The arguments examined in this work do not yet establish an unconditional preservation guarantee for the complete formation and evaporation of an actual four-dimensional event-horizon black hole in this universe. That conclusion is an explicitly bounded literature and premise-admission finding, not a theorem that such a guarantee is impossible.
+The resulting challenge is therefore straightforward.
+Establish the complete physical preservation premise, with its hypotheses and applicability to an actual event-horizon evaporation process, and the present preservation-unearned verdict must yield.
+Establish fundamental information destruction with comparable physical completeness, and the loss verdict must be credited instead.
+Until either burden is discharged, the mathematical information paradox remains a powerful conditional problem. Its identification as a demonstrated contradiction in the physics of this universe requires the additional step of earning the premises that make the contradiction physical.
+That step cannot be skipped by either theory.
+________________
+AI Use Disclosure
+Artificial intelligence tools were used during the development of this work for research assistance, literature and source auditing, adversarial review, conceptual organization, drafting support, editing, consistency checking, and formalization support. The author directed the scientific question, physical and Structural Flow scope, source selection and interpretation, claim boundaries, formal-contract architecture, falsification criteria, and final editorial judgments, and takes responsibility for the final content.
+________________
+
+
+The Burden of Black-Hole Information Preservation 
+An Event-Horizon Premise Challenge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+Rick
+________________
+[1] Visser, M. (2014). “Physical observability of horizons.” Physical Review D 90, 127502. https://doi.org/10.1103/PhysRevD.90.127502; Hayward, S. A., Shiromizu, T., and Nakao, K. (1994). “A cosmological constant limits the size of black holes.” Physical Review D 49, 5080–5085. https://doi.org/10.1103/PhysRevD.49.5080.
+[2] Maudlin, T. (2017). “(Information) Paradox Lost.” arXiv:1705.03541. https://arxiv.org/abs/1705.03541; Manchak, J. B., and Weatherall, J. O. (2018). “(Information) Paradox Regained? A Brief Comment on Maudlin on Black Hole Information Loss.” Foundations of Physics 48, 611–627. https://doi.org/10.1007/s10701-018-0170-3.
+[3] Unruh, W. G., and Wald, R. M. (2017). “Information Loss.” Reports on Progress in Physics 80, 092002. https://doi.org/10.1088/1361-6633/aa778e.
+[4] Buoninfante, L., Di Filippo, F., and Mukohyama, S. (2021). “On the assumptions leading to the information loss paradox.” Journal of High Energy Physics 2021, 81. https://doi.org/10.1007/JHEP10(2021)081.
+[5] Buoninfante, L., and Di Filippo, F. (2025). “Is the Information Loss Problem a Paradox?” In The Black Hole Information Paradox: A Fifty-Year Journey, pp. 63–80. https://doi.org/10.1007/978-981-96-6170-1_3.
+[6] Rovelli, C. (2019). “The Subtle Unphysical Hypothesis of the Firewall Theorem.” Entropy 21, 839. https://doi.org/10.3390/e21090839; Rovelli, C., and Vidotto, F. (2025). “There Is No Black Hole Information Paradox.” In The Black Hole Information Paradox: A Fifty-Year Journey, pp. 151–157. https://doi.org/10.1007/978-981-96-6170-1_6.
+[7] Marolf, D. (2009). “Unitarity and Holography in Gravitational Physics.” Physical Review D 79, 044010. https://doi.org/10.1103/PhysRevD.79.044010.
+[8] Laddha, A., Prabhu, S. G., Raju, S., and Shrivastava, P. (2021). “The Holographic Nature of Null Infinity.” SciPost Physics 10, 041. https://doi.org/10.21468/SciPostPhys.10.2.041.
+[9] Chen, C.-H., Penington, G., Satishchandran, G., and Tabor, E. (2026). “Holographic Algebras at Null Infinity.” arXiv:2609.01706 [preprint]. https://arxiv.org/abs/2609.01706.
+[10] Marolf, D., and Maxfield, H. (2021). “Observations of Hawking Radiation: The Page Curve and Baby Universes.” Journal of High Energy Physics 2021, 272. https://doi.org/10.1007/JHEP04(2021)272.
+[11] Maldacena, J. (1998). “The Large N Limit of Superconformal Field Theories and Supergravity.” Advances in Theoretical and Mathematical Physics 2, 231–252. https://doi.org/10.4310/ATMP.1998.v2.n2.a1.
+[12] Almheiri, A., Engelhardt, N., Marolf, D., and Maxfield, H. (2019). “The Entropy of Bulk Quantum Fields and the Entanglement Wedge of an Evaporating Black Hole.” Journal of High Energy Physics 2019, 063. https://doi.org/10.1007/JHEP12(2019)063; Penington, G. (2020). “Entanglement Wedge Reconstruction and the Information Paradox.” Journal of High Energy Physics 2020, 002. https://doi.org/10.1007/JHEP09(2020)002; Almheiri, A., Hartman, T., Maldacena, J., Shaghoulian, E., and Tajdini, A. (2020). “Replica Wormholes and the Entropy of Hawking Radiation.” Journal of High Energy Physics 2020, 013. https://doi.org/10.1007/JHEP05(2020)013.
+[13] Dong, X., Harlow, D., and Wall, A. C. (2016). “Reconstruction of Bulk Operators within the Entanglement Wedge in Gauge-Gravity Duality.” Physical Review Letters 117, 021601. https://doi.org/10.1103/PhysRevLett.117.021601.
+[14] Antonini, S., Chen, C.-H., Maxfield, H., and Penington, G. (2025). “An Apologia for Islands.” Journal of High Energy Physics 2025, 034. https://doi.org/10.1007/JHEP10(2025)034.
+[15] Đorđević, S., and Radovanović, V. (2026). “Page Curve for an Evaporating Schwarzschild Black Hole in Dimensionally Reduced Model of Dilaton Gravity.” Physical Review D 113, 105020. https://doi.org/10.1103/nc2z-hx6s.
+[16] Hawking, S. W. (1976). “Breakdown of Predictability in Gravitational Collapse.” Physical Review D 14, 2460-2473. https://doi.org/10.1103/PhysRevD.14.2460.
+[17] Page, D. N. (1993). “Information in Black Hole Radiation.” Physical Review Letters 71, 3743–3746. https://doi.org/10.1103/PhysRevLett.71.3743.
+[18] Mathur, S. D. (2009). “The Information Paradox: A Pedagogical Introduction.” Classical and Quantum Gravity 26, 224001. https://doi.org/10.1088/0264-9381/26/22/224001.
+[19] Wallace, D. (2020). “Why Black Hole Information Loss Is Paradoxical.” In Beyond Spacetime: The Foundations of Quantum Gravity, pp. 209–236. https://doi.org/10.1017/9781108655705.013.
+[20] Almheiri, A., Marolf, D., Polchinski, J., and Sully, J. (2013). “Black Holes: Complementarity or Firewalls?” Journal of High Energy Physics 2013, 062. https://doi.org/10.1007/JHEP02(2013)062.

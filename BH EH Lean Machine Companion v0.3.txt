@@ -1,0 +1,56 @@
+﻿The Burden of Black-Hole Information Preservation 
+BH-EH LEAN MACHINE COMPANION
+Release status: FULL COMPOSITE REPORTED COMPILED IN LEAN WEB
+Record date: 2026-10-10
+PURPOSE
+This is the reader's guide to the unchanged Universal Kernel and the appended BH-EH formal admission contracts. The scientific manuscript and the public falsification/reopening protocol are separate human-facing release components. This companion is interpretive and reproducibility metadata, NOT a new derivation, an additional axiom, or an SF foundational revision.
+FILES IN THE MACHINE PACKAGE
+- Structural_Flow_Universal_Kernel_v1.0.lean
+  The existing, unchanged universal kernel (reusable beyond this paper).
+- BH_EH_Consolidated_Preservation_Premise_Contract_v0.1_APPEND.lean
+  Seven BH-EH contracts plus the integration layer. Append ONLY after one
+  complete kernel; do not append component files again.
+- BH EH Lean Machine Companion v0.3.txt
+  This scope and verification guide.
+FORMAL OBJECT
+The selected physical route is attempted ORDINARY future-directed causal transmission from strictly inside a genuine GR event horizon to the stipulated exterior future. The formal interface assumes: no exterior causal reach for this route; any ordinary outward Cascade on that route requires such reach; same-route Authorization requires Cascade. Conditional on those assumptions, outward Cascade and same-route Authorization do not occur. This does NOT prohibit interior-local interactions, exterior correlations, gravitational dressing, or separately established nonlocal reconstruction, nor does it establish complete Single-Boundary density threshold identification in a real black hole.
+The minimal formal premise set has logical completions with global quantum preservation and others without it. Consequently the restricted horizon premises entail NEITHER global preservation NOR fundamental destruction.
+Logical completions are not physical black-hole solutions. The admission predicates encode what an adequate preservation/loss claim must establish; they do not prove that those physical conditions hold.
+WHERE THE REAL-WORLD PHYSICAL BRIDGE REMAINS OPEN
+The manuscript's event-horizon geometry is first formulated using the asymptotically flat ℐ⁺ description. A real cosmological spacetime, the existence of a global event horizon, a complete 4D formation/evaporation history, nonperturbative control, a physically complete output algebra, and preservation of arbitrary claimed input quantum coherence are NOT inferred from this formal contract. Asymptotically flat, AdS, reduced, stationary, code-subspace and null-infinity-cut results each retain their actually demonstrated scopes; no one boundary is silently substituted for the specified event horizon. A direct complete-dynamics preservation proof can meet the domain challenge without a radiation-only decoder.
+SOURCE MODULES IN THE CONSOLIDATED APPENDIX
+BHEH01 : event-horizon outward route and minimal non-entailment
+BHEH02 : preservation premise and final-purity admission
+BHEH04 : cross-input coherence versus classical label agreement
+BHEH05 : asymptotic/unitarity conditional and complete-output admission
+BHEH06 : null-infinity cut-access algebra and physical distinction
+BHEH07 : regulated operator, quantum recovery, and channel tests
+BHEH08 : scoped recovery versus complete physical preservation (v0.2)
+BHEHIntegrated : common object, closure boundaries, and reopening rules
+BH-EH-03 was a matched-source audit, not a separate Lean module.
+COMPILE / REPRODUCE
+Paste one unchanged Structural_Flow_Universal_Kernel_v1.0.lean, then paste BH_EH_Consolidated_Preservation_Premise_Contract_v0.1_APPEND.lean once, after the final `end StructuralFlow` of the kernel. Do not paste individual BH-EH component modules as well.
+Verify that the combined source elaborates without errors and all 68 `#check` outputs are displayed. Successful `#check` display gives theorem signatures; the full error-free elaboration is the relevant combined acceptance criterion.
+Lean implementation/version details were not independently captured in the supplied output and are not asserted here.
+VERIFICATION RECORD AND HONEST LIMIT
+The author's uploaded Lean Web output dated 2026-10-10 showed all 68 expected theorem checks from the complete integrated source, including BHEH02, BHEH05, and the BHEHIntegrated layer, with no compiler errors reported in the supplied record. Machine-closure status: PASS AT THE ENCODED CONDITIONAL LOGICAL SCOPE, as documented by that browser run. 
+This companion does not claim a separate fresh compilation here, or physical verification of an actual black hole.
+The unchanged v0.1 Lean append contains historical comments saying that full integration compilation was pending. Those comments describe its production-time status. The later documented Lean Web run completed that gate. The formal Lean source has deliberately NOT been modified to rewrite historical comments, because the released append should remain byte-identical to the successfully checked version. This v0.3 companion records the final execution status without silently editing a checked theorem file.
+REOPENING INSTRUCTIONS
+- Matched model/operator or code-recovery result: reopen that MODEL gate.
+- Physically established complete preservation or complete information destruction for a matched actual 4D event-horizon target: reopen the PHYSICAL INFORMATION VERDICT at its independently earned scope.
+- Defeat of actual event-horizon identity or route-to-SF mapping: reopen the DOMAIN TRANSLATION, not automatically universal SF.
+- Counterderivation against a foundational SF premise: reopen only the implicated UNIVERSAL SF claim and, if needed, the reusable kernel.
+A negative test of practical radiation recovery alone cannot prove fundamental loss if the complete physical output is not independently established. Partial quantum recovery cannot prove unrestricted global preservation. See the separate public falsification and reopening protocol for full evidence-to-verdict rules.
+SOURCE INTEGRITY (SHA-256)
+Universal Kernel:
+  b455ec869d062f0fc05d239c5006c843165cd598edbd8c35eae442ff471689a3
+BH-EH consolidated appendix:
+  2fec0133e6f0e3f1118d9c1ad13f03bb3e706ba6ad8b39e494984b328247e905
+PUBLIC RELEASE RULE
+Publish the scientific anchor, public falsification/reopening protocol, this machine companion, the consolidated BH-EH formal append, and the unchanged Structural_Flow_Universal_Kernel_v1.0.lean together as one coordinated release.
+The Kernel and BH-EH append remain distinct formal files: the Kernel supplies the reusable universal machine base, while the append supplies the scoped BH-EH contracts and integration layer.
+The very large experimental derivation spine is a development archive, not a prerequisite to understanding or reproducing this paper.
+________________
+AI Use Disclosure
+Artificial intelligence tools were used during the development of this companion for research assistance, formalization support, drafting, editing, consistency checking, and reproducibility auditing. The author directed the package architecture, formal-to-human mappings, authority boundaries, compilation-status interpretation, reopening rules, and final editorial judgments, and takes responsibility for the final content.
